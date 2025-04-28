@@ -1,4 +1,5 @@
-# Game Development Patterns with Unreal Engine 5
+# Game Development Patterns with Unreal Engine 5  한국어판
+출판사
 Game Development Patterns with Unreal Engine 5, Published by Packt
 
 <a href="https://www.packtpub.com/product/game-development-patterns-with-unreal-engine-5/9781803243252"><img src="https://static.packt-cdn.com/products/9781803243252/cover/smaller" alt="Game Development Patterns with Unreal Engine 5" height="256px" align="right"></a>
