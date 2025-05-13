@@ -7,6 +7,6 @@
 
 void APlayerController_Ch7::Init()
 {
-	_ScoreWidget = CreateWidget<UWidget_Score_CH7, APlayerController_Ch7>(this, _ScoreWidgetClass.Get());
+	_ScoreWidget = CreateWidget<UWidget_Score_CH7>(this, _ScoreWidgetClass.Get());
 	_ScoreWidget->AddToViewport();
 }
